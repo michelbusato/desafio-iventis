@@ -29,10 +29,13 @@ docker-compose down
 
 ## Exemplo de Utilização
 
-http://localhost:6868/compras
-http://localhost:6868/maior-compra/{{ano}} exemplo http://localhost:6868/maior-compra/2020
-http://localhost:6868/clientes-fieis
-http://localhost:6868/recomendacao/cliente/tipo
+* http://localhost:6868/compras
+
+* http://localhost:6868/maior-compra/{{ano}} exemplo http://localhost:6868/maior-compra/2020
+
+* http://localhost:6868/clientes-fieis
+
+* http://localhost:6868/recomendacao/cliente/tipo
 
 
 
