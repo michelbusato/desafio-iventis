@@ -22,5 +22,10 @@ Executar o comando para encerrar o container limpando os volumes:
 
 docker-compose down --volumes
 
+Para apenas encerrar:
+
+docker-compose down
+
+
 
 
